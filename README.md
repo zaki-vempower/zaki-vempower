@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @zaki-vempower
 - 👀 I’m interested in Javascript 
-- 🌱 I’m currently trying to clear AWS certification
 - 💞️ I’m looking to collaborate on any Open Source Projects
 - 📫 How to reach me syedzaki1001@gmail.com
 
